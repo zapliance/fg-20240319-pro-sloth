@@ -8,7 +8,7 @@ variable "container_group_name" {
 
 
 variable "container_name" {
-  default = "zapPostgres"
+  default = "zap-helloworld"
 }
 
 variable "container_image" {
